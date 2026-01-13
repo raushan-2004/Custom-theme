@@ -35,4 +35,3 @@ Tips
 - Use the CLI for faster iterative changes and live reload.
 - If theme uses Shopify Functions, custom apps, or API keys, provision those in the new store first.
 
-GitHub Copilot
